@@ -1,6 +1,6 @@
 owner=534314527643140101
-prefix=s
-game=..
+prefix=-
+game=رمضان كريم.🎵
 stayinchannel=true
 songinstatus=false
-token=NTc0Njk3MTc0NjMwNDAwMDQw.XM9LMQ.Ukctd4tipdbofZXpOWqHDR484u4
+token=NTc0Njk3MTc0NjMwNDAwMDQw.XNFnow.pczotWqOD11hlMM7jOt8yGqyl-M
