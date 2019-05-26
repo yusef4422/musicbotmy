@@ -1,6 +1,6 @@
 owner=579808920873467904
-prefix= #
-game= لحن.
+prefix=#
+game=لحن.
 stayinchannel=true
 songinstatus=false
-token=NTgyMTkyNjQ0Nzc2NjU2OTE4.XOqPRg.KV-FPVMHAW6eOd0DDM57OoyUDLY
+token=NTgyMTkyNjQ0Nzc2NjU2OTE4.XOqTWA.DN7tidl5u2aBHyx-KAbSzngGwaA
